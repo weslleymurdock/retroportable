@@ -1,0 +1,3 @@
+[submodule "modules/RetroPieBios"]
+	path = modules/RetroPieBios
+	url = https://github.com/archtaurus/RetroPieBIOS.git
